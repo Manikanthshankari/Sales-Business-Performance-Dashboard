@@ -65,3 +65,38 @@ The project simulates a real-world business analytics use case where data-driven
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🚀 Business Value
+This dashboard enables business teams to:
+- Identify high-performing products and segments
+- Optimize pricing and discount strategies
+- Improve regional and channel-level sales planning
+- Make faster, data-driven business decisions
+
+---
+
+## 📌 Skills Demonstrated
+- Data Analysis
+- Business Analytics
+- Excel Dashboard Design
+- KPI Development
+- Data Visualization
+- Analytical Thinking
+- Stakeholder-focused insights
+
+---
+
+## 📎 How to Use
+1. Download the Excel file from the repository
+2. Open in Microsoft Excel (Desktop recommended)
+3. Use slicers to explore different business scenarios
+4. Review KPIs and visual insights for decision-making
+
+---
+
+## 👤 Author
+**Manikanth Shankari**  
+Aspiring Data Analyst | Excel | SQL | Data Visualization
+
